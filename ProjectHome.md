@@ -1,0 +1,1 @@
+A PlugIn for GROWL/ICQ6 Like Toaster PopUp Windows with jQuery
